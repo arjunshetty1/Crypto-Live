@@ -1,0 +1,32 @@
+*{
+    padding: 2rem 2rem;
+    font-family: 'Poppins', sans-serif;
+    box-sizing: border-box;
+    line-height: 30px;
+    font-weight: 100;
+    background-color: aliceblue;
+}
+
+.name{
+    position: relative;
+    right: 2.1rem;
+    font-weight: 500;
+    color: rgb(0, 0, 0);
+}
+
+
+.btn{
+    color: #fff;
+    text-decoration: none;
+    border: 1px solid #fff;
+    padding: 10px 30px;
+    border-radius: 20px;
+    background-color: black;
+    position: relative;
+    left: 1.8rem;
+
+}
+
+.btn:hover{
+    background-color:rgb(36, 35, 35) ;
+}
