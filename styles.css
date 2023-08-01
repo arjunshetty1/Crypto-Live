@@ -115,6 +115,7 @@ nav .btn{
     padding: 20px 30px;
     border-radius: 8px;
     background-color: #ffff;
+    border: 2px solid green;
 }
 
 .coin img{
